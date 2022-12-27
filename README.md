@@ -1,6 +1,6 @@
 # Musik
 
-[Link para o projeto](landing-page-musik-ktpg-kq5dnxiuk-lincado.vercel.app)
+[Link para o projeto](landing-page-musik-ktpg-6ssntozkv-lincado.vercel.app)
 ## GitHub
 [Meus repositórios](https://github.com/Lincado)
 
