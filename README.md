@@ -1,6 +1,6 @@
 # Musik
 
-[Link para o projeto](https://page-coffe.vercel.app/)
+[Link para o projeto](https://landing-page-musik-ktpg.vercel.app/)
 ## GitHub
 [Meus repositórios](https://github.com/Lincado)
 
